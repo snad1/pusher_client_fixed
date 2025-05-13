@@ -7,7 +7,7 @@ homepage: https://github.com/AbdoPrDZ/pusher_client_fixed.git
 documentation: https://github.com/AbdoPrDZ/blob/main/README.md
 
 environment:
-  sdk: ^3.7.2
+  sdk: ^3.29.3
   flutter: ">=1.17.0"
 
 dependencies:
